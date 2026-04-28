@@ -1,0 +1,19 @@
+{
+  "name": "loan-mock-api",
+  "version": "1.0.0",
+  "description": "Tier 1 Loan Journey Mock API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
